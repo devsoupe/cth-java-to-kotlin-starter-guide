@@ -17,7 +17,7 @@ private fun practice_2() {
 
 private fun practice_3() {
     val person = Person("공부하는 개발자")
-    startWithA(person.name)
+//    startWithA(person.name)
 }
 
 fun startWithA1(str: String?): Boolean {
